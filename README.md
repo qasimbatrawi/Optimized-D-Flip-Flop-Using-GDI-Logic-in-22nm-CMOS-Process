@@ -8,4 +8,4 @@ reduce power consumption, and decrease propagation delay compared to conventiona
 
 ## Team Member
 
-** Taleed Hamadneh [GitHub](https://github.com/taleed606)
+**Taleed Hamadneh** [GitHub](https://github.com/taleed606)
