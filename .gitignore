@@ -1,0 +1,14 @@
+Project_Plan.docx
+
+GDI FF/*
+
+!GDI FF/GDI_FF.jelib
+
+CMOS FF/*
+
+!CMOS FF/CMOS_FF.jelib
+!CMOS FF/inverter.jelib
+!CMOS FF/N-latch.jelib
+!CMOS FF/P_latch.jelib
+!CMOS FF/Transmission.jelib
+!CMOS FF/tristate_inverter.jelib
